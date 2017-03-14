@@ -6,6 +6,8 @@ Sumbission rules:
 all files should be in the github assignment repository.
 you should include a link to Firebase url in README.md file.
 
+FIREBASE LINK: https://first-3f638.firebaseapp.com/
+
 # angular2-ex2
 second exercise - using components
 
